@@ -1,1 +1,1 @@
-just for test
+istanbul cover D:\HOME\GIT\nvmw\iojs\v1.4.2\node_modules\mocha\bin\_mocha
